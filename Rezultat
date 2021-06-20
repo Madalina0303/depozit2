@@ -1,0 +1,30 @@
+{
+  "data": {
+    "viewer": {
+      "login": "Madalina0303",
+      "repositories": {
+        "totalCount": 4,
+        "edges": [
+          {
+            "cursor": "Y3Vyc29yOnYyOpHOFKjRmQ==",
+            "node": {
+              "name": "LeHS"
+            }
+          },
+          {
+            "cursor": "Y3Vyc29yOnYyOpHOFhH8Rw==",
+            "node": {
+              "name": "proiectPa1"
+            }
+          },
+          {
+            "cursor": "Y3Vyc29yOnYyOpHOFo6w0g==",
+            "node": {
+              "name": "depozit1"
+            }
+          }
+        ]
+      }
+    }
+  }
+}
