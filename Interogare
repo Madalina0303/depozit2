@@ -1,0 +1,14 @@
+query { 
+  viewer { 
+    login
+    repositories(first: 3,privacy:PUBLIC, after:"Y3Vyc29yOnYyOpHOFJxLog=="){
+      totalCount
+      edges{
+        cursor
+        node{
+          name
+        }
+      }
+    }
+  }
+}
